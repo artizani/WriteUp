@@ -1,0 +1,13 @@
+explain how you are forecasting returns and then recalculating the actual value from the forecasted returns
+
+past observation are no longer used as input but instead as
+
+research question is indepth exploration of lstm with limited dataset and comparison with  established Arima
+
+talk about input layers
+neurons
+networks
+ stacked  layers
+stackeds lstm
+bias variance
+variance in training dataset/ test set in kera, ( randomly shuffling, validation data)
